@@ -18,3 +18,26 @@ Cześć! Jestem Agnieszka, entuzjasta analizy danych oraz rozwoju aplikacji w ś
 📧 Jeśli jesteś zainteresowany współpracą lub po prostu chcesz porozmawiać na temat danych i BI, możesz się ze mną skontaktować drogą mailową: agnieszkakowalska046@gmail.com
 
 Dziękuję za odwiedzenie mojego profilu GitHub! 🌟
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Hello on my GitHub profile!** 👋
+
+**About me** 
+Hi there! I'm Agnieszka, a data analysis enthusiast and an application developer in the Power BI environment. My passion for data exploration and creating intuitive visualizations keeps me constantly fascinated by the possibilities that Power BI offers.
+
+**Interests** 🔍 
+I'm mainly interested in inventory data analysis (such as ABC, XYZ, Standard Deviation, Coefficient of Variation, prediction) and developing skills as a Power BI developer. I have experience working with SQL databases, especially in data analysis and manipulation contexts (SELECT, INNER JOIN, CASE, WHERE, etc.). Additionally, I have experience using Excel and the ERP system Infor LN.
+
+🌱 Currently, I'm deepening my knowledge in advanced data analysis techniques, process optimization in Power BI, and Machine Learning.
+
+**Professional experience 🚀**
+I have experience working with various datasets, creating advanced reports and dashboards in Power BI, and implementing BI solutions currently in the manufacturing industry, but I also have knowledge from the shipping and auditing industries. Through my professional experience, I've had the opportunity to work with the ERP system Infor LN, SAP, SQL, Power BI, EXCEL.
+
+**Collaboration 💼**
+I'm looking for opportunities to collaborate on projects related to data analysis, Business Intelligence, and application development in the Power BI environment. I'm also open to projects involving the use of Excel, SQL, and the ERP system Infor LN.
+
+**Contact** 📧 If you're interested in collaboration or just want to talk about data and BI, feel free to contact me via email: agnieszkakowalska046@gmail.com
+
+Thank you for visiting my GitHub profile! 🌟
